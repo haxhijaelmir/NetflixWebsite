@@ -1,0 +1,84 @@
+	body{
+	background-image: url(backroundnetflix.png);
+
+}
+.texti{
+	color: white;
+	text-align: center;
+	margin-top: 20%;
+
+
+}
+.llogo{
+	width: 100px;
+	margin-top: 20px;
+	margin-left: 20px;
+
+	
+}
+.GetStarted{
+	background-color: red;
+	border-radius: 0px;
+	padding: 11px;
+	border-color: red;
+	color: white;
+	border-style: none;
+}
+.input2{
+	padding: 10px;
+}
+.signin{
+	color: white;
+	background-color: red;
+	border-style: none;
+	padding: 5px;
+	border-radius: 4px;
+	float: right;
+}
+.Katrori{
+	background-color: black;
+	width: 30%;
+	color: white;
+	padding: 50px;
+    opacity: 0.8;
+    margin-left: 30%;	
+	}
+.input{
+	width: 80%;
+	background-color: lightgrey;
+	color: black;
+	margin-left: 30px;
+	border-radius: 5px;
+	padding: 15px;
+}
+.Sign{
+	background-color: red;
+	margin-top: 10px;
+	width: 87.5%;
+	margin-left: 30px;	
+	padding: 15px;
+}	
+.input3{
+	width: 80%;
+	background-color: lightgrey;
+	color: black;
+	margin-left: 30px;
+	margin-top: 15px;
+	border-radius: 5px;
+	padding: 15px;
+}
+.tekstisign{
+	margin-left: 30px;
+}
+	
+.container{
+	margin-left: 28px;	
+color: grey;
+}
+.Linku{
+	color: grey;
+	
+}
+.movies{
+}
+
